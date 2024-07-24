@@ -4,8 +4,8 @@
     <img src="https://github.com/user-attachments/assets/f9378af4-f3e3-48e8-bbf6-da7b789ba730" alt="golanglander" width="500"/>
 </div>
 <H1>ReadME</H1>
-This example code Golang-based code demonstrates how to create a server that interacts with Microsoft Entra ID and Azure Active Directory for user authentication. 
-It shows how to implement login, callback, and logout functionalities, allowing you to authenticate users and retrieve user information from Azure Active Directory for further use.
+This example Golang-based code demonstrates how to create a server that interacts with Microsoft Entra ID and Azure Active Directory for user authentication, 
+including integration with single sign-on (SSO). It shows how to implement login, callback, and logout functionalities, allowing you to authenticate users and retrieve user information from Azure Active Directory for further use.
 <div align="center">
     <img src="https://github.com/user-attachments/assets/8db8b66c-675e-42bd-a2dd-dd7e48843a76" alt="callback" width="600"/>
     <img src="https://github.com/user-attachments/assets/a2852201-4cc5-49a1-aecd-068eb155010f" alt="callback" width="600"/>
@@ -17,5 +17,3 @@ It shows how to implement login, callback, and logout functionalities, allowing 
 Golang
 - golang.org/x/oauth2
 - net/http
-
-
